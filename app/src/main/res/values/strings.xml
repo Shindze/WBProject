@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">WBSchoolProject</string>
+
+    <string name="meetings_name_label">Встречи</string>
+    <string name="all_meetings_tab_label">Все встречи</string>
+    <string name="AllActiveMeetingsLabel">Активные</string>
+    <string name="PlanedMeetingsLabel">Запланировано</string>
+    <string name="GroupsTabLabel">Сообщества</string>
+    <string name="MoreScreenTabLabel">Ещё</string>
+    <string name="MainScreenLabel">Главный экран</string>
+
+    <string name="ProfileScreenLabel">Профиль</string>
+    <string name="MyMeetingsLabel">Мои встречи</string>
+    <string name="GroupNameLabel">Designa</string>
+    <string name="GroupCountName">10 000 человек</string>
+
+
+    <string name="NextButtonName">Продолжить</string>
+    <string name="BackButtonName">Назад</string>
+    <string name="SaveButtonName">Сохранить</string>
+    <string name="EditButtonName">Изменить</string>
+    <string name="CodeRequestButtonName">Запросить код повторно</string>
+    <string name="MeetingScreenButtonName">Пойду на встречу!</string>
+    <string name="DefaultButtonName">Button</string>
+    <string name="ProfileButtonName">WB</string>
+
+    <string name="SearchFieldName">Поиск</string>
+
+
+    <string name="ProfilePersonName">Иван Иванов</string>
+    <string name="ProfileNumberName">+7 999 999–99–99</string>
+
+
+    <string name="TextExampleLine">The quick brown fox jumps over the lazy dog</string>
+    <string name="PythonChipName">Python</string>
+    <string name="JuniorChipName">Junior</string>
+    <string name="MoscowChipName">Moscow</string>
+
+
+    <string name="GroupsMeetings">Встречи сообщества</string>
+    <string name="MeetingsStatusText">Закончилась</string>
+    <string name="MeetingName">Developer meeting</string>
+    <string name="MeetingTime">13.09.2024 — Москва</string>
+
+
+    <string name="NumberMask">000 000-00-00</string>
+    <string name="EnterYourNumberText">Введите номер телефона</string>
+    <string name="SendCodeRequestText">Мы вышлем код подтверждения на указаный номер</string>
+
+    <string name="CodeInputText">Введите код</string>
+    <string name="CodeShareToNumberText">Отправили код на номер</string>
+
+    <string name="GroupDescriptionText">Lorem ipsum dolor sit amet consectetur. Libero duis cum egestas amet mollis massa. Convallis sit lacus tortor interdum auctor viverra vitae. Egestas aliquam odio aenean eget facilisi ipsum vitae. Risus lectus quam urna condimentum id massa magna id mattis. Sit tempor volutpat ac eget dignissim nibh sagittis vitae duis. Vivamus quis fusce egestas vel sodales arcu praesent non. Ullamcorper elit sit eros egestas euismod amet. Nec molestie a sit sed. At neque diam turpis cursus tincidunt nisi quam sed non. Tempor tortor ultricies ultrices maecenas lectus in nunc sapien dapibus.
+        \nVolutpat placerat et placerat felis tristique quis. Pharetra velit faucibus lobortis vitae dui. Nibh diam velit hendrerit posuere vel ut augue varius velit. Eu eget ipsum vulputate consectetur adipiscing est mollis eleifend quisque. Porttitor senectus nibh </string>
+
+    <string name="EventCardImgURL"><![CDATA[https://s3-alpha-sig.figma.com/img/fefc/cf31/614b29f37235f304b6fe5c0562c7e733?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F7Tftp5UfmVcdF9kBgUEkQ1up2Ok2xOt1U76Rvlo28KNpdkKJ5FIc6ZnJF60lM6HkI1gd4DNO3uUeiGuMQss0cxlsLL6qufwLPXMXyFTC6WmXyyIexjQVA185PEemfTHT~ltyaBCcRRQZMWbm6VQsDvCMsWa~ZhXwdF4dvOaCQyIVOYLo2G8h7fQeULpBP2esYmHWGCT39d5lt3DgFrpaKhQ-DUpa4~biD9YcWlHAocFbyANQ3NIolur~YN~4zo3FbcuCsZXFJxGb1Fe3RwBs37uauCeBE0gZ1sSjgo2-ZUygEt8Z-vOT6qdKM3cHrzrx1dPckoSjo7~CB0yscCzcg__]]></string>
+    <string name="GroupCardImgURL"><![CDATA[https://s3-alpha-sig.figma.com/img/139e/f96e/e0b474d2ee5737240e30042a2d50330c?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EqiiDzmOXzhnjfa08yPVZWq0avHjZAOP2egVdFmQyRjLWcnMFHM-4GcFw6KNfCW~SMFD12jO-ZHCE3q7j9m0qFb82-q7PMqwNdEHldEpSnxrVELQymHl2jl6q0J~NND2KkXiyQYX6Rtq5MtwfWDBgDyuA8yRGXwdDya6o11lLAVtqynA-PutpgJ5l7C4oqu8j1DWrspn4q-4ShzXgQXz8CbLiedVJpCLu1HfnAWjLHZrATPwqTXQbr2OjxrVX5gNSFxhkIvsKJtr6oiXaPrcb-b5GCUqq0GaDydGP4cbTmBWbwzT3MnLSBUjY6czPbuf1hv82q2hVai4TJ4wuZqKzw__]]></string>
+    <string name="ProfileAvatarImgURL"><![CDATA[https://s3-alpha-sig.figma.com/img/e121/29e8/a76d83f5b40ca650a7ddefaeaeeff62c?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=m2tgcF7qe8V0Jv72Hj9I86z0utHdaclkGxf4K6D44qrW9BRdId0L-hNcZN2d5v-fgzuYbtbA9L8qOorfVTBvK8OVYhZJd0SbKxxT-VBBCvwu4yvX~uMNFT~hDLFh99zVgv5Vk4mkTYE0T5aUJrxpL9xMan39ivCIAgqRMBFqTQ4N9acLM6bLlsLVpThC8SWjxSWgShHS40w~a4OieQTwckOyJkG3E2VQf6WC96akWDJBmDU-lqErNR6MUvvcWjZbt67VikIMd65pWeM-Dcf0a4iEgc4vNxdkV3z8deGsRcv6--R36ds7HWLTtTbsBWoF~l~y--4VHSmV82AjBviv8Q__]]></string>
+    <string name="ProfileScreenImgURL"><![CDATA[https://s3-alpha-sig.figma.com/img/e121/29e8/a76d83f5b40ca650a7ddefaeaeeff62c?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=m2tgcF7qe8V0Jv72Hj9I86z0utHdaclkGxf4K6D44qrW9BRdId0L-hNcZN2d5v-fgzuYbtbA9L8qOorfVTBvK8OVYhZJd0SbKxxT-VBBCvwu4yvX~uMNFT~hDLFh99zVgv5Vk4mkTYE0T5aUJrxpL9xMan39ivCIAgqRMBFqTQ4N9acLM6bLlsLVpThC8SWjxSWgShHS40w~a4OieQTwckOyJkG3E2VQf6WC96akWDJBmDU-lqErNR6MUvvcWjZbt67VikIMd65pWeM-Dcf0a4iEgc4vNxdkV3z8deGsRcv6--R36ds7HWLTtTbsBWoF~l~y--4VHSmV82AjBviv8Q__]]></string>
+    <string name="MeetingCardImgURL"><![CDATA[https://s3-alpha-sig.figma.com/img/a7d0/b7a1/73dfa50190eed292a52792c6d52bb4be?Expires=1721606400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lbp~3M0cO0QqU4lp~FXgS4hYwsMVN97j2OZ3HVxb8dEnfLglnfSrPAkaAzJfYEpb69jK3ownyv8GlElutrbD8Ae3vdiQjXpFbOoK-3sgXTVMdTNHCDC7yyRnqwxiCN-9OLFYuwlzvRem139gTzBSrgQ4h0~2T1Gf-XE7I29MM6n3SpJ-xLwwpHaOnDMFG35KkPwHIMVl~RQOSb3CNPrf2CLrbrcuTeLGJdoItKkuEobXERZjHBVTh4PvhxdXMmHiRKykksWEEYGc1UmbH7x~oY1EVQx2UTob2aMF4ro~eu57F8-JthhN3Cd8t9o9Tyi92ZIayuZyICVx9Q7bMzgMoQ__]]></string>
+    <string name="LabelError">Ошибка заголовка</string>
+    <string name="TextFieldProfileNameSupportText">Имя (обязательно)</string>
+    <string name="TextFieldProfileSecondNameSupportText">Фамилия (опционально)</string>
+    <string name="CodeDefaultPassword">1379</string>
+
+</resources>
